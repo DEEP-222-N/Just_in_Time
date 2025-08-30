@@ -50,7 +50,7 @@ Delivered dashboards and metrics for continuous monitoring.
 
 **3. High late shipment rate:** The company has a rather concerning late shipment rate (30 - 50%) which related to the delivery system
 
-#Recommendations
+## **Recommendations**
 
 ##1. Restore Revenue and Profit (by inventory segmentation):
 
