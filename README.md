@@ -43,7 +43,7 @@ Delivered dashboards and metrics for continuous monitoring.
 
 🚀 Getting Started
 # Clone the repo
-git clone https://github.com/your-org/just-in-time.git
+git clone https://github.com/DEEP-222-N/Just_in_Time
 
 # Install dependencies
 pip install -r requirements.txt
@@ -53,4 +53,4 @@ jupyter notebook Just_in_Time.ipynb
 
 🤝 Collaboration
 
-We welcome contributions to extend analysis, add visualizations, or integrate predictive models for supply chain optimization.
+I welcome contributions to extend analysis, add visualizations, or integrate predictive models for supply chain optimization.
