@@ -1,5 +1,6 @@
 # Just_in_Time
-[Colab File]:(https://drive.google.com/file/d/1dw1nUpLA4VU9UcDTtxGVPvuPQwx22qQw/view?usp=sharing)
+[Colab File](https://drive.google.com/file/d/1dw1nUpLA4VU9UcDTtxGVPvuPQwx22qQw/view?usp=sharing)
+
 # Just In Time – Supply Chain Analytics
 Unlocking efficiency in supply chain operations through data-driven insights
 
