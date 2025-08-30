@@ -2,6 +2,7 @@
 
 # Just In Time – Supply Chain Analytics
 Unlocking efficiency in supply chain operations through data-driven insights
+
 🏢 About the Project
 
 Just In Time is a supply chain analytics initiative designed to help businesses address real-world challenges in shipment tracking, inventory management, and demand forecasting.
